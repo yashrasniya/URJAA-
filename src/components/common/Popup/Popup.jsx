@@ -1,29 +1,32 @@
-import React, { useState, useEffect } from "react";
-import classes from "./Popup.module.css";
+// import React, { useState, useEffect } from "react";
+// import classes from "./Popup.module.css";
+
 // import whatsapp from "../../../assets/whatsapp.svg";
 // import cross from "../../../assets/cross.svg";
 // import GrabBitBtn from "../GrabBitBtn/GrabBitBtn";
 // import grabbits from "../../../assets/grabbits.png";
 // import { NavLink } from "react-router-dom";
-import logo from "../../../assets/Logo.png";
-import Button from "../Button/Button";
+
+
+// import logo from "../../../assets/Logo.png";
+// import Button from "../Button/Button";
 
 const Popup = () => {
-  const [showPopup, setShowPopup] = useState(false);
+  // const [showPopup, setShowPopup] = useState(false);
 
-  useEffect(() => {
-    const popupShown = localStorage.getItem("eventPopup");
-    if (!popupShown) {
-      setTimeout(() => {
-        setShowPopup(true);
-        localStorage.setItem("eventPopup", true);
-      }, 8000);
-    }
-  }, []);
+  // useEffect(() => {
+  //   const popupShown = localStorage.getItem("eventPopup");
+  //   if (!popupShown) {
+  //     setTimeout(() => {
+  //       setShowPopup(true);
+  //       localStorage.setItem("eventPopup", true);
+  //     }, 8000);
+  //   }
+  // }, []);
 
-  function handleClose() {
-    setShowPopup(false);
-  }
+  // function handleClose() {
+  //   setShowPopup(false);
+  // }
 
   return (
     <>
