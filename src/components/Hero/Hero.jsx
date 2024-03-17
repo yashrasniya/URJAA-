@@ -52,7 +52,7 @@ const Hero = () => {
           <h1 style={{ fontSize: '100px',fontStyle: 'italic', color: 'white', fontWeight: 'bold' }}>URJAA 2K24</h1>
 
 
-          <h4 className={classes.caption}>Let&apos;s make a tech move!</h4>
+          <h4 className={classes.caption} style={{fontWeight: 'bold' }} >Let&apos;s make a tech move!</h4>
           <p className={classes.date}>March 29-31, 2024</p>
           <Link
             className={classes.anchorBtn}

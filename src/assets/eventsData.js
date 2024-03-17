@@ -62,7 +62,8 @@ export const eventsData = [
       "Teams having a working model of their idea will be considered as a plus point by judging panel.",
       "If any kind of trolling, offending, or misbehaving seen by participants will not be tolerated.",
     ],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSflBya7_eDYE43kIwv6acx5TpqyqXkrQMgmOtLM5oYAnfJAzA/viewform?usp=sf_link",
+    //Register Link khoj
+    link: "",
   },
   {
     id: 2,
@@ -85,7 +86,8 @@ export const eventsData = [
     location: "A WING",
     date: "21th FEB (Full Day)",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSehzAtg5Sy5C4B5WkVTeD5SGxLrq0fSKzqdSKLh2UvJQkRVnA/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 3,
@@ -109,7 +111,8 @@ export const eventsData = [
     location: "A WING",
     date: "20th FEB",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSfW29NpK5FGba-846Sr2WpwXRkc5Aef3cX_60c-eCxobjH2Zg/viewform?usp=sf_link",
+    //Register Link
+    link: "",
   },
   {
     id: 4,
@@ -146,7 +149,8 @@ export const eventsData = [
     location: "A Building Entrance",
     date: "20 Feb",
     note: "",
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSc3xZCzF8NQI0FVZExRSFJEVEuvDRDdV74qNu5tvhNrE4G6cw/viewform",
+    //Register Link
+    link: "",
     onSpot: "",
   },
   {
@@ -206,7 +210,8 @@ export const eventsData = [
     location: "Lawn",
     date: "21st Feb 10:00am onwards",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLScfe2rSolO-FC-q7puLr2ca9UL3o0xDW4UJViqqX5tmDwbrBQ/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 7,
@@ -255,7 +260,8 @@ export const eventsData = [
     location: "about to be fixed",
     date: "20 AND 21 FEBRUARY (10:00 AM to 5:00 PM)",
     note: [""],
-    link: "https://docs.google.com/forms/d/1POXKCUgYFHqdmLj1XefekmTLfqBFF_cG3DHEDTGB-Pg/viewform?edit_requested=true#settings",
+    //Register Link
+    link: "",
   },
   {
     id: 9,
@@ -284,7 +290,8 @@ export const eventsData = [
     location: "Virtusa Lab (A Wing)",
     date: "20 AND 21 FEBRUARY (10:00 AM to 5:00 PM)",
     note: [""],
-    link: "https://docs.google.com/forms/d/1POXKCUgYFHqdmLj1XefekmTLfqBFF_cG3DHEDTGB-Pg/viewform?edit_requested=true#settings",
+    //Register Link
+    link: "",
   },
   {
     id: 10,
@@ -406,7 +413,8 @@ export const eventsData = [
     location: "A WING",
     date: "20th Feb, 10:00 am onwards.",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSeXHY3fe3259AmtmItE5u86mwj17aDg3H6KpPwq4yGa54AkUQ/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 14,
@@ -449,7 +457,8 @@ export const eventsData = [
       "The organizers reserve the rights to change the above format, if necessary.",
       "Teams can also register at the venue on the day of the event at least an hour prior to the event.",
     ],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSd2Uc8Kyn0T-4F7McrCBRt40FSgMnyJEZc2L0YzJpZYgn16dg/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 15,
@@ -530,7 +539,8 @@ export const eventsData = [
       "Organizers reserve the rights to make changes to the field design at any time without prior notification.",
       "Teams can also register at the venue on the day of the event at least an hour prior to the event.",
     ],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSd2Uc8Kyn0T-4F7McrCBRt40FSgMnyJEZc2L0YzJpZYgn16dg/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 17,
@@ -560,7 +570,8 @@ export const eventsData = [
     location: "Lawn in front of C wing",
     date: "20th Feb (Full Day)",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSd3f8HXzhh4EvjNh2S2NAo4o5GRotXv3n4038NusyvUmsQFYw/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 18,
@@ -583,7 +594,8 @@ export const eventsData = [
     location: "CAD/CAM Lab",
     date: "21/02/2023 (10:00 A.M to 1:00 P.M)",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSdoBbbc_iWaqnNIhqyKIGMeQP5JWhjXmtUTaDtxBsUmts_PZg/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 19,
@@ -623,7 +635,8 @@ export const eventsData = [
     note: [
       "No other material may be used for construction of tower. Tower may not be painted.",
     ],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSf37Z0h9Rya9TXifYPuuQU4QPs-LglQHpKIc3Ve4uJ8ytbpdg/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 20,
@@ -655,7 +668,8 @@ export const eventsData = [
     location: "Online",
     date: "13th AND 21 FEBRUARY (submission link will close at 5:00 PM)",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSfT4q9dRseQqkbgxfOIZ9CUXGgmtHMZHCLR9IucOMeLuiv_Pg/viewform",
+    //Register Link
+    link: "",
   },
   {
     id: 21,
@@ -693,7 +707,8 @@ export const eventsData = [
     note: [
       "This fast-paced game is for those who want to put their teamwork and typing skills to the test.",
     ],
-    link: "https://docs.google.com/forms/d/1POXKCUgYFHqdmLj1XefekmTLfqBFF_cG3DHEDTGB-Pg/viewform?edit_requested=true#settings",
+    //Register Link
+    link: "",
   },
   {
     id: 22,
@@ -722,7 +737,8 @@ export const eventsData = [
     location: "AI & DS lab",
     date: "22th Feb 2022",
     note: [""],
-    link: "https://docs.google.com/forms/d/1u1mXeqcf-VqEXdsasT8xlhta5CO3zw6y8MZbYkfDTx8/viewform?edit_requested=true",
+    //Register Link
+    link: "",
   },
   {
     id: 23,
@@ -757,7 +773,8 @@ export const eventsData = [
     location: "A wing (FPL lab)",
     date: "21st Feb 2023 (11 onwards)",
     note: [""],
-    link: "https://docs.google.com/forms/d/e/1FAIpQLSf6i9W6BTw4ff8a_rqLpeb2NRnsYdFjx7DKqqzbXlEGoejqaA/viewform",
+    //Register Link
+    link: "",
   },
   // {
   //   id: 24,

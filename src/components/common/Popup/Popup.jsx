@@ -27,7 +27,7 @@ const Popup = () => {
 
   return (
     <>
-      {showPopup && (
+      {/* {showPopup && (
         <>
           <div className={classes.blur}>
             <div className={classes.card}>
@@ -44,7 +44,7 @@ const Popup = () => {
             </div>
           </div>
         </>
-      )}
+      )} */}
     </>
   );
 };
