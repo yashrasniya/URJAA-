@@ -5,7 +5,7 @@ const questions = [
   {
     question: "What is URJAA?",
     answer:
-      "URJAA 2k23 is the one of biggest Technical event in the history of DYPCOE.",
+      "URJAA 2k24 is the one of biggest Technical event in the history of DYPCOE.",
   },
   {
     question: "What are the Dates and Timings of event?",
