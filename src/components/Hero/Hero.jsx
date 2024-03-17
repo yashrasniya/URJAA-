@@ -2,7 +2,6 @@ import React from "react";
 import classes from "./Hero.module.css";
 import { Link } from "react-router-dom";
 import Button from "../common/Button/Button";
-import text_img from "./text.svg";
 
 const Hero = () => {
   // const [countDays, setDays] = useState(false);

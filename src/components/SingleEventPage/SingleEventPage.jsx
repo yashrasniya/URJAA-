@@ -18,7 +18,6 @@ const SingleEventPage = () => {
     note,
     prizes,
     team,
-    fees,
     contactInfo,
     location,
     date,
