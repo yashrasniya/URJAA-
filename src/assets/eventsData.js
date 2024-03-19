@@ -1,32 +1,6 @@
-import Khoj from "./Events/Khoj.png";
 import a from "./Events/WhatsApp Image 2024-03-16 at 23.40.38.jpeg";
 
-import BlindCoding from "./Events/BlindCoding.png";
-import FlyHigh from "./Events/FlyHigh.png";
-import SpaceExpo from "./Events/SpaceExpo.png";
-import RoboRace from "./Events/RoboRace.png";
-import RelayRacing from "./Events/RelayRacing.png";
-import MurderMystery from "./Events/MurderMystery.png";
-import ShotOnQuiz from "./Events/ShotOnQuiz.png";
-import RoboSoccer from "./Events/RoboSoccer.png";
-import DraicPlayground from "./Events/DraicPlayground.png";
-import HopSites from "./Events/HopSites.png";
-import CodeBuddies from "./Events/CodeBuddies.png";
-import MaskedCoding from "./Events/MaskedCoding.png";
-import Blogathon from "./Events/Blogathon.png";
-import BotBusters from "./Events/BotBusters.png";
-import CadCompetiton from "./Events/CadCompetiton.png";
-import GamingZone from "./Events/GamingZone.png";
-// import KeynoteSession from "./Events/KeynoteSession.png";
-import ReadandType from "./Events/ReadandType.png";
-import SpeedTypers from "./Events/SpeedTypers.png";
-// import web3 from "./Events/Web3.png";
-import SupercarShow from "./Events/SupercarShow.png";
-import TremblingTower from "./Events/TremblingTower.png";
-import Hackathon from "./Events/Hackathon.png";
-import TreasureHunt from "./Events/TreasureHunt.png";
-import SpinningRival from "./Events/SpinningRival.png";
-import quiz from "./Events/quiz.png";
+
 
 export const eventsData = [
   {
