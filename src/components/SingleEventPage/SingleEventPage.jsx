@@ -13,17 +13,17 @@ const SingleEventPage = () => {
   const {
     name,
     image,
-    description,
-    rules,
-    note,
-    prizes,
-    team,
-    contactInfo,
-    location,
-    date,
+    // description,
+    // rules,
+    // note,
+    // prizes,
+    // team,
+    // contactInfo,
+    // location,
+    // date,
     link,
     onSpot,
-    disqualification,
+    // disqualification,
   } = requiredEvent;
 
   return (
@@ -35,11 +35,11 @@ const SingleEventPage = () => {
           </div>
           <div className={classes.col2}>
             <h1 className={classes.eventHeading}>{name}</h1>
-            <div className={classes.subheading}>
+            {/* <div className={classes.subheading}>
               <h2 className={classes.heading}>Description</h2>
               <p className={classes.content}>{description}</p>
-            </div>
-            <div className={classes.rowcol}>
+            </div> */}
+            {/* <div className={classes.rowcol}>
               <div className={classes.subheading}>
                 <h2 className={classes.heading}>Team</h2>
                 <p className={classes.content}>{team}</p>
@@ -113,7 +113,7 @@ const SingleEventPage = () => {
                   return <p className={classes.content}>{note}</p>;
                 })}
               </div>
-            )}
+            )} */}
             {link !== "" ? (
               <Button hrefLink={link} label="Register" />
       
