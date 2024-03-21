@@ -5,6 +5,7 @@ import { NavLink } from "react-router-dom";
 
 const EventCard = ({ eventData }) => {
   const { id, image, name } = eventData;
+  
   return (
     <>
       <NavLink to={`/events/${id}`}>

@@ -7,6 +7,7 @@ export const eventsData = [
     id: 1,
     image: a,
     name: "Khoj",
+    eventType:"Tech",
     description:
       "The KHOJ project idea pitching event is designed to give students an opportunity to showcase their innovative project ideas to a panel of judges. The main objective of this competition is to highlight the students' technical proficiency, creativity, and problem-solving capabilities and provide them with a platform to receive feedback and recognition for their hard work.",
     rules: [
