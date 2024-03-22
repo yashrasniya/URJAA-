@@ -8,7 +8,7 @@ const Event = ({ eventData }) => {
 
   return (
     <>
-      <NavLink to={`/SportEvent/ `}>
+      <NavLink to={`/SportEvent`}>
         <div className={classes.card}>
           <div className={classes.card2}>
             {/* <h3 className={classes.event_name}>{name}</h3> */}

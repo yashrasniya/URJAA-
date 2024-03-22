@@ -30,30 +30,15 @@ const MainEvents = () => {
         <div className={classes.main}>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Technical Events</h1>
-            {eventsData.map((eventData, i) => {
-              if (eventData.eventType == 'Tech') {
-                return <Event eventData={eventData} key={i} />;
-              }
-
-            })}
+            <Event eventData={{ id:'Technical', image:'image', name:'Technical Events' }} />
           </div>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Cultural Events</h1>
-            {eventsData.map((eventData, i) => {
-              if (eventData.eventType == 'Tech') {
-                return <Events eventData={eventData} key={i} />;
-              }
-
-            })}
+            <Event eventData={{ id:1, image:'image', name:'Technical Events' }}  />
           </div>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Sports Events</h1>
-            {eventsData.map((eventData, i) => {
-              if (eventData.eventType == 'Tech') {
-                return <EventCards eventData={eventData} key={i} />;
-              }
-
-            })}
+            <Event   eventData={{ id:1, image:'image', name:'Technical Events' }} />
 
           </div>
         </div>
