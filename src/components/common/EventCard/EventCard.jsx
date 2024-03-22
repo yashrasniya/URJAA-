@@ -13,12 +13,12 @@ const Event = ({ eventData }) => {
     link='/culturel'
   }
   if(id=='Sport'){
-    link='/events/:SportEvent'
+    link='/sport'
   }
   
   return (
     <>
-      <NavLink to={`/events/${id}`}>
+      <NavLink to={link}>
         <div className={classes.card}>
           <div className={classes.card2}>
             <h3 className={classes.event_name}>{name}</h3>
