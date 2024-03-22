@@ -66,9 +66,9 @@ const App = () => {
             <Route path="/" element={<Homepage />} />
             <Route path="/events" element={<MainEvents />} />
             <Route path="/events/:eventId" element={<SingleEventPage />} />
-            <Route path="/tech" element={<TechEventPage data={{title:'tech Event',type:'Tech'}}/>} />
-            <Route path="/culturel" element={<Clutureevent data={{title:'culture Event',type:'Culture'}}/>} />
-            <Route path="/sport" element={<Clutureevent data={{title:'culture Event',type:'Culture'}}/>} />
+            <Route path="/tech" element={<TechEventPage data={{title:'Tech Event',type:'Tech'}}/>} />
+            <Route path="/culturel" element={<TechEventPage data={{title:'Culture Event',type:'Culture'}}/>} />
+            <Route path="/sport" element={<TechEventPage data={{title:'Sport Event',type:'sport'}}/>} />
             <Route path="/leaderboard" element={<Leaderboard />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/register" element={<Register />} />
