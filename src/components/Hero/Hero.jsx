@@ -8,7 +8,7 @@ const Hero = () => {
     <section id="home" className={classes.hero}>
       <div className={classes.herobox}>
         <div className={classes.headerbox}>
-          <h1 className={classes.heading}>URJAA 2K24</h1>
+          <h1 className={classes.heading}>UURJA 2K24</h1>
           <h4 className={classes.caption}>Let's make a tech move!</h4>
           <p className={classes.date}>March 29-31, 2024</p>
           <Link
