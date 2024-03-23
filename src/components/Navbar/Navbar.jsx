@@ -10,7 +10,8 @@ import { faXmark } from "@fortawesome/free-solid-svg-icons";
 import { HashLink as Link } from "react-router-hash-link";
 // import Dropdown from "./Dropdown";
 import { HashLink } from "react-router-hash-link";
-import Logo from "../../assets/Logo.png";
+// import Logo from "../../assets/Logo.png";
+import Logo from "../../assets/Logo-removebg-preview.png";
 import { Link as Drop} from "react-scroll";
 
 
@@ -25,6 +26,7 @@ const Navbar = () => {
     return () => (window.onscroll = null);
   };
 
+            
   return (
     <header
       className={`${!scrolled ? classes.header : classes.scrolledHeader}`}
@@ -77,25 +79,7 @@ const Navbar = () => {
                 </Link>
               </Drop>
             </li>
-            <Link to="/events">
-              <li
-                className={`${classes.dropLink}`}
-                // onClick={() => setDrop(!drop)}
-              >
-                {/* {drop ? <Dropdown click={() => setDrop(!drop)} /> : ""} */}
-                Events
-                <FontAwesomeIcon
-                  size="sm"
-                  style={{
-                    display: "inline-block",
-                    marginLeft: ".3rem",
-                    color: "white",
-                  }}
-                  icon={faArrowDown}
-                  fade
-                />
-              </li>
-            </Link>
+
             <li className={classes.navLink}>
               <Drop
                 activeClass={classes.active}
@@ -248,3 +232,6 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
+            
