@@ -8,9 +8,9 @@ const About = () => {
       <section id="about" className={classes.aboutSec}>
         <div className={classes.about}>
           <div className={classes.details}>
-            <h3 className={classes.heading}>About</h3>
+            <h3 className={classes.heading}>ABOUT</h3>
             <h2 className={classes.heading1}>UURJA 24</h2>
-            <p className={classes.para}>
+            <p className={classes.para} style={{ textAlign: 'justify' }}>
               UURJA is a technical festival offering a diverse range of events
               and competitions focused on technology and innovation. It provides
               a platform for individuals to showcase their skills, learn from

@@ -11,7 +11,7 @@ const EventSection = () => {
           <div className={classes.details}>
             {/* <h3 className={classes.heading}>About</h3> */}
             <h2 className={classes.heading1}>EVENTS</h2>
-            <p className={classes.para}>
+            <p className={classes.para} style={{ textAlign: 'justify' }}>
               UURJA reflects the spirit of the festival and its mission to
               provide a platform for individuals to push their limits and
               challenge themselves to turn their ideas and innovative projects

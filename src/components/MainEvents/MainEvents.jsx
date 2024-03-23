@@ -26,7 +26,7 @@ const MainEvents = () => {
   return (
     <>
       <div className={classes.events_section}>
-        <h1 className={classes.heading}>Events</h1>
+        <h1 className={classes.heading}>EVENTS</h1>
         <div className={classes.main}>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Technical Events</h1>

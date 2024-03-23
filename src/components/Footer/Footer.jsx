@@ -31,7 +31,7 @@ const Footer = () => {
               {/* <h1 className={classes.footer_sambhav}>SAMBHAV'23</h1> */}
             </div>
           </div>
-          <p className={classes.footer_sambhav_description}>
+          <p className={classes.footer_sambhav_description} style={{ textAlign: 'justify' }}>
             UURJA'24 is One of the Largest Technical festival of Gopeshwar. Let&apos;s
             make a Tech move.
           </p>
@@ -63,7 +63,7 @@ const Footer = () => {
               {/* <h1 className={classes.footer_sambhav}>GrabBit</h1> */}
             </div>
           </div>
-          <p className={classes.footer_sambhav_description}>
+          <p className={classes.footer_sambhav_description} style={{ textAlign: 'justify' }}>
             Get the latest updates about internships, hackathons, job openings
             and much more..
           </p>

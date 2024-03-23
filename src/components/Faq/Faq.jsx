@@ -20,7 +20,7 @@ const questions = [
   {
     question: "Is there any entry fee for UURJA 2k24?",
     answer:
-      "No, there is not any entry fee to explore UURJA 2k24 but to participate in some events you have pay registration fee.",
+      "No, there is not any entry fee to explore UURJA 2k24.",
   },
 ];
 

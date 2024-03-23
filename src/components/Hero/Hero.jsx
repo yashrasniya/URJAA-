@@ -8,8 +8,15 @@ const Hero = () => {
     <section id="home" className={classes.hero}>
       <div className={classes.herobox}>
         <div className={classes.headerbox}>
-          <h1 className={classes.heading}>UURJA 2K24</h1>
-          <h4 className={classes.caption}>Let's make a tech move!</h4>
+          <h1 className={classes.heading} style={{ color: "white" }}>
+            UURJA 2K24
+          </h1>
+          <br></br>
+
+          <h4 className={classes.caption} style={{ fontWeight: "bold" }}>
+            Let's make a tech move!
+          </h4>
+
           <p className={classes.date}>March 29-31, 2024</p>
           <Link
             className={classes.anchorBtn}
