@@ -64,6 +64,23 @@ const Navbar = () => {
                 </Link>
               </Drop>
             </li>
+          
+             <li className={classes.navLink}>
+              <Drop
+                activeClass={classes.active}
+                to="event"
+                spy="true"
+                smooth={true}
+                offset={-100}
+                duration={600}
+                style={{ color: "white", textDecoration: "none" }}
+              >
+                <Link className={classes.homeLink} to="/events">
+                  Event
+                </Link>
+              </Drop>
+            </li>
+
             <li className={classes.navLink}>
               <Drop
                 activeClass={classes.active}

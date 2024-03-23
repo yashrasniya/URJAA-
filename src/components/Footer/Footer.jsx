@@ -182,7 +182,7 @@ const Footer = () => {
             {" "}
             @Yash Rasniya
           </a>{" "}
-          and{" "}
+          ,{" "}
           <a
             href={sanyog}
             target="_blank"
@@ -191,6 +191,16 @@ const Footer = () => {
           >
             {" "}
             @Sarthak Joshi
+          </a>{" "}
+          and{""}
+          <a
+            href={sanyog}
+            target="_blank"
+            rel="noopener noreferrer"
+            className={classes.footer_a_link}
+          >
+            {" "}
+            @Aditya Srivastava
           </a>{" "}
           
         </h4>
