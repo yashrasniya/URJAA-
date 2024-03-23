@@ -25,10 +25,34 @@ const MainEvents = () => {
       <div className={classes.events_section}>
         <h1 className={classes.heading}>Events</h1>
         <img src="x" alt="" />
+        <h1 className={classes.sub_heading}>Technical Events</h1>
+
         <div className={classes.events_container}>
+          
           {eventsData.map((eventData, i) => {
-            return <EventCard eventData={eventData} key={i} />;
+            if(eventData.eventType=='Tech'){
+              return <EventCard eventData={eventData} key={i} />;
+            }
+            
           })}
+        </div>
+        <h1 className={classes.sub_heading}>Cultural Events</h1>
+
+        <div className={classes.events_container}>
+        
+          {eventsData.map((eventData, i) => {
+if(eventData.eventType=='Cultural'){
+  return <EventCard eventData={eventData} key={i} />;
+}          })}
+        </div>
+        <h1 className={classes.sub_heading}>Sports Events</h1>
+
+        <div className={classes.events_container}>
+        
+          {eventsData.map((eventData, i) => {
+if(eventData.eventType=='Sports'){
+  return <EventCard eventData={eventData} key={i} />;
+}          })}
         </div>
       </div>
     </>
