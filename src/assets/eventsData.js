@@ -1,36 +1,13 @@
-import Khoj from "./Events/Khoj.png";
-import BlindCoding from "./Events/BlindCoding.png";
-import FlyHigh from "./Events/FlyHigh.png";
-import SpaceExpo from "./Events/SpaceExpo.png";
-import RoboRace from "./Events/RoboRace.png";
-import RelayRacing from "./Events/RelayRacing.png";
-import MurderMystery from "./Events/MurderMystery.png";
-import ShotOnQuiz from "./Events/ShotOnQuiz.png";
-import RoboSoccer from "./Events/RoboSoccer.png";
-import DraicPlayground from "./Events/DraicPlayground.png";
-import HopSites from "./Events/HopSites.png";
-import CodeBuddies from "./Events/CodeBuddies.png";
-import MaskedCoding from "./Events/MaskedCoding.png";
-import Blogathon from "./Events/Blogathon.png";
-import BotBusters from "./Events/BotBusters.png";
-import CadCompetiton from "./Events/CadCompetiton.png";
-import GamingZone from "./Events/GamingZone.png";
-// import KeynoteSession from "./Events/KeynoteSession.png";
-import ReadandType from "./Events/ReadandType.png";
-import SpeedTypers from "./Events/SpeedTypers.png";
-// import web3 from "./Events/Web3.png";
-import SupercarShow from "./Events/SupercarShow.png";
-import TremblingTower from "./Events/TremblingTower.png";
-import Hackathon from "./Events/Hackathon.png";
-import TreasureHunt from "./Events/TreasureHunt.png";
-import SpinningRival from "./Events/SpinningRival.png";
-import quiz from "./Events/quiz.png";
+import a from "./Events/WhatsApp Image 2024-03-16 at 23.40.38.jpeg";
+
+
 
 export const eventsData = [
   {
     id: 1,
-    image: Khoj,
+    image: a,
     name: "Khoj",
+    eventType:"Tech",
     description:
       "The KHOJ project idea pitching event is designed to give students an opportunity to showcase their innovative project ideas to a panel of judges. The main objective of this competition is to highlight the students' technical proficiency, creativity, and problem-solving capabilities and provide them with a platform to receive feedback and recognition for their hard work.",
     rules: [
@@ -67,7 +44,7 @@ export const eventsData = [
   },
   {
     id: 2,
-    image: TreasureHunt,
+    image: a,
     name: "TREASURE HUNT",
     description:
       "During a logical questions treasure hunt, participants will be given a series of clues or challenges that require logical thinking and problem-solving skills. These clues will be delivered through a variety of formats, such as puzzles, riddles, or logic games, and will require participants to use their critical thinking and reasoning abilities to solve them. As participants solve each clue, they will be led to the next one until they reach the final treasure.",
@@ -91,7 +68,7 @@ export const eventsData = [
   },
   {
     id: 3,
-    image: SpinningRival,
+    image: a,
     name: "SPINNING RIVAL",
     description:
       "two challengers go head-to-head in a 1v1 competition. The question to be attempted is randomly chose using “SPIN the WHEEL”. Coding question present on the Spin Wheel.",
@@ -116,7 +93,7 @@ export const eventsData = [
   },
   {
     id: 4,
-    image: BlindCoding,
+    image: a,
     name: "Blind Coding",
     description:
       "The 'Blind Coding' competition is a unique challenge that tests both coding proficiency and communication skills. Participants will compete in pairs, with one participant tasked with critically analyzing a problem statement and explaining it to their partner who will write the code without being able to see the screen. This event will be held in three rounds, each with its own level of difficulty and point value. Participants will have a maximum of three attempts to score the highest points, with their best score being considered for the final ranking.Not only will this competition showcase your coding abilities, but it will also test your problem-solving skills and your ability to think and communicate under pressure. This is a valuable opportunity to develop and demonstrate your programming knowledge, and to gain valuable experience in coding, communication and teamwork.",
@@ -155,7 +132,7 @@ export const eventsData = [
   },
   {
     id: 5,
-    image: FlyHigh,
+    image: a,
     name: "FLY HIGH SHOW",
     description:
       "An Aerial Show in which an airplane and a drone will be deployed simultaneously in the sky, catching the attention of the people on ground. Below there will be a set from which all these will be launched and controlled. This area will also contain all the information about these projects including Where these are used, How it was made, Components required to make this, Description of components, Budget of the overall project and much more. This will act as a great impression for those who have keen interests in aeronautics and flying objects. Also this event will attract people from far and will add as a great addition to the event",
@@ -174,7 +151,7 @@ export const eventsData = [
   },
   {
     id: 6,
-    image: RelayRacing,
+    image: a,
     name: "Bot relay race",
     description:
       " A battle between students all around to compete with each other. Each team is typically made up of several robots, each of which is designed for relay races. The robots work together to push a circular 3d ball as a relay, till the end line with each robot completing its task and then passing the 'baton' to the next robot in the team.The goal of the race is for the team of robots to complete the course as quickly and efficiently as possible, with the winning team being the one that crosses the finish line first.",
@@ -215,7 +192,7 @@ export const eventsData = [
   },
   {
     id: 7,
-    image: MurderMystery,
+    image: a,
     name: "Murder Mystery",
     description: [
       "Murder by a time traveler- A Murder Mystery",
@@ -237,7 +214,7 @@ export const eventsData = [
   },
   {
     id: 8,
-    image: SpeedTypers,
+    image: a,
     name: "SPEED TYPERS",
     description:
       "The Contest is a skill-based typing contest, in which eligible participants will compete by taking an online typing contest using an online typing website, ztype.pe which tests a Participant's speed and accuracy by calculating the word-per-minute typing speed ('WPM'). Once the game is completed, the website will calculate and indicate to the Participant what his or her final score and accuracy is which will be recorded. This score will be compared  against other Participants who have already played the game. At the end of the contest the Participants on the top of the leaderboard will be declared as winners.",
@@ -265,7 +242,7 @@ export const eventsData = [
   },
   {
     id: 9,
-    image: quiz,
+    image: a,
     name: "Quiz",
     description:
       "In this contest at a time minimum 10 contestants can participate. Questions will be flashed on the screen one by one. There would be a buzzer system for the contestants. The person who hits the buzzer first will be given a chance to answer the displayed question. Maximum points to be awarded to the contestent if he/she gives correct answer in minimum time.",
@@ -295,7 +272,7 @@ export const eventsData = [
   },
   {
     id: 10,
-    image: HopSites,
+    image: a,
     name: "Hop Sites",
     description: [
       "An activity in which players have to find out the clues by visiting different website by decoding the clue given at the beginning – just like treasure hunt participants will visit different websites & the one who decodes all the clues & complete the tasks will be considered as winner.",
@@ -325,7 +302,7 @@ export const eventsData = [
   },
   {
     id: 11,
-    image: CodeBuddies,
+    image: a,
     name: "CodeBuddies",
     description: [
       "The Partner Coding Competition is an exciting and unique challenge that combines the power of teamwork with the thrill of technology. Here, two coders will join forces to solve a coding problem in an innovative and interactive way. One partner will write a line of code and then pass the baton to the other partner, who will continue the solution by writing the next line. This pattern will repeat until the problem is solved, creating a seamless collaboration between the two partners.",
@@ -358,7 +335,7 @@ export const eventsData = [
   },
   {
     id: 12,
-    image: MaskedCoding,
+    image: a,
     name: "Masked coding",
     description:
       "An event where a programmer is asked to code without looking at the screen. The programmer is given a problem to solve and has to write the code from memory, typing it out on a keyboard. The goal of this event is to test the programmer's ability to recall syntax and programming concepts, as well as their ability to think logically and problem-solve under pressure.",
@@ -385,7 +362,7 @@ export const eventsData = [
   },
   {
     id: 13,
-    image: ShotOnQuiz,
+    image: a,
     name: "Shot On Quiz",
     description:
       " A fun quizzes competition between teams where various categories of questions will be asked along with the punishment of drinking different kinds of shots.",
@@ -418,7 +395,7 @@ export const eventsData = [
   },
   {
     id: 14,
-    image: RoboRace,
+    image: a,
     name: "ROBO Race",
     description:
       " Teams have to build a manually controlled bot with the aim to tackle maximum number of obstacles in minimum amount of time.",
@@ -462,7 +439,7 @@ export const eventsData = [
   },
   {
     id: 15,
-    image: DraicPlayground,
+    image: a,
     name: "DRAIC Playground",
     description: "Remaining",
     rules: ["NA"],
@@ -478,7 +455,7 @@ export const eventsData = [
   },
   {
     id: 16,
-    image: RoboSoccer,
+    image: a,
     name: "ROBO Soccer",
     description:
       "Two bots face off in an exhilarating match of football. Teams have to build a bot capable scoring goals and also defend against the opponent.",
@@ -544,7 +521,7 @@ export const eventsData = [
   },
   {
     id: 17,
-    image: BotBusters,
+    image: a,
     name: "ROBO Buster",
     description:
       " ENTC department Presents ROBO BURSTER This game is all about team war between 4 people which will be in 2v2 form. In this event we have to burst all the balloon/lives of the opponent’s bot before the given time limit, the team which bursts all the balloons in minimum time will be the winner of the event. It’s more like TDM (Team Death Match).Step into a world of excitement with Robots! Go wild as you race against time and pop balloons, dodge needles and beat the clock to become the ultimate BURSTER. Get ready and buckle up your seats",
@@ -573,287 +550,5 @@ export const eventsData = [
     //Register Link
     link: "",
   },
-  {
-    id: 18,
-    image: CadCompetiton,
-    name: "CAD Competition",
-    description:
-      " CAD Competition is an event where students interested in designing and modeling can show their skills/talent and win exciting prizes. CAD Competition is not limited by specific software use, any designing software, be it Solidworks, Catia, AutoCAD, etc. can be used by participants. Participants can bring their own laptop/system consisting of any design software or else system will be provided to them by organizers",
-    rules: [
-      "Make design from scratch",
-      "No use of the Internet while designing.",
-      "2 hours duration for designing.",
-    ],
-    prizes: ["1st: Mivi Duopods", "2nd: Laptop Bag"],
-    team: "2 Members Team",
-    fees: "100 Rs",
-    contactInfo: [
-      "Shambhuraje Ghorpade : 9765442079",
-      "Ajinkya Suryavanshi : 7387958706",
-    ],
-    location: "CAD/CAM Lab",
-    date: "21/02/2023 (10:00 A.M to 1:00 P.M)",
-    note: [""],
-    //Register Link
-    link: "",
-  },
-  {
-    id: 19,
-    image: TremblingTower,
-    name: "TREMBLING TOWER",
-    description:
-      "Civil Engineering Student Association Presents TREMBLING TOWER A tower making competition In this event a tower is to be built with the help of Popsicle sticks. The Material required and Dimensions for making tower will be provided. It is a game of skill + mind. So let’s make a unique structure. Do join us and win exciting prizes.",
-    rules: [
-      "OBJECTIVE: To design and build a tower, which will bear the maximum load by using only popsicle sticks and glue.",
-      "MATERIALS:",
-      "   Materials used for construction of towers are restricted to following:",
-      "     Popsicle sticks",
-      "     Glue",
-      "   Maximum number of sticks: 100 sticks",
-      "CONSTRUCTION SPECIFICATIONS:",
-      "   Height of tower: 30cm",
-      "   Cross sectional dimensions: 10cm10cm",
-      "   Dimensional error of  1 cm will be considered. [Towers with error more than 1cm will be disqualified]",
-      "   Participants should make top platform by using popsicle sticks as load will be given from top platform.",
-      "JUDGING CRITERIA:",
-      "   Dimensions of the tower",
-      "   Strength to self-weight ratio i.e. [Load carried by tower/self-weight]",
-      "INSTRUCTIONS:",
-      "   Use of materials other than which are provided by us is strictly prohibited.",
-      "   Participants should make top platform by using popsicle sticks as load will be given from top platform.",
-      "   If the dimensional error exceeds 1cm model will be disqualified.",
-    ],
-    prizes: ["Winner:3000", "Runner up:2000"],
-    team: "2 to 4 members per team.",
-    fees: "Rs.200/ Team",
-    contactInfo: [
-      "Shrikrushna Gawade : 9420103663",
-      "Anurag Shendekar : 7588923120",
-    ],
-    location: "Lawn in front of C wing",
-    date: "Tower making: 20 Feb 2023, 10 AM onwards, Tower testing: 21 Feb 2023, 10 AM onwards",
-    note: [
-      "No other material may be used for construction of tower. Tower may not be painted.",
-    ],
-    //Register Link
-    link: "",
-  },
-  {
-    id: 20,
-    image: Blogathon,
-    name: "BLOGATHON",
-    description:
-      "Iasc Blogathon Hola amigos!🤩 Our team IASC DYPCOE in collaboration with SAMBHAV and ABHIVYAKTI ✨ is back with another exciting event! This is our first ever Blog-a-thon💬 with exciting prizes 🏆 for the winners! You have to write ✍️ a blog on the Topic:- Your Journey falling in love with a tech 👩‍💻 domain The Deadline for submission is 21st December 5:00 pm. Along with prizes🏆 the top 3 submissions would also get a chance to be featured in our college magazine via team Abhivyakti 💫 So what are you waiting for?!🤩 Get your creative minds running 🌟 We are eager to read about your Journey!❤️",
-    rules: [
-      "Plagiarized or AI generated content is strictly not allowed. If found, we will disqualify it immediately.",
-      "The word limit of the blog should be between 800-1200 words.",
-      "Along with content quality your blog would also be judged on how well it is promoted i.e number of likes or votes it receives.",
-      "The Blog can be published on any blogging website of your choice eg-linkedin,twitter,medium,hashnode etc. Try to use a popular website so it will be easier to promote.",
-      "The Blog is expected to be descriptive i.e focusing on why you got into a specific tech domain,how you got interested and the challenges you faced while exploring it. We don’t expect you to go into the technicalities of the domain",
-      "You are expected to use the following hashtags compulsorily while posting the blog:- #iasc #iascdypcoe #sambhav #blog-athon and can add additional hashtags of your choice.",
-      "EVALUATION CRITERIA:",
-      "   The Blog would be given a score out of 50,where 35 marks are for the quality of content and the rest 15 marks are for how well it is promoted.",
-      "   Total score=Content(35) + No.of votes(converted out of 15)=50",
-    ],
-    prizes: [
-      "Top 3 winners will get any one course out of c++, JAVA, Python, etc. With 100% Scholorship",
-      "winners will get there blog published in college magazine",
-    ],
-    team: "Individual",
-    fees: "Free",
-    contactInfo: [
-      "Varsha Kotipalli : 9561387199",
-      "Aashavi Kothari : 7738734644",
-    ],
-    location: "Online",
-    date: "13th AND 21 FEBRUARY (submission link will close at 5:00 PM)",
-    note: [""],
-    //Register Link
-    link: "",
-  },
-  {
-    id: 21,
-    image: ReadandType,
-    name: "READ AND TYPE",
-    description:
-      "Read and Type is a two-player game that requires quick reflexes and strong teamwork. The game is simple in concept but challenging in execution. One player reads a text passage while the other player types it out as accurately as possible. The catch is that they only have six minutes to complete the task. The faster and more accurately the players work, the more points they can score. The reader must be able to read quickly and clearly while the typist must be able to type with speed and accuracy. Communication is key, as the reader must be able to alert the typist to any errors or mistakes in the text.",
-    rules: [
-      "This event will be a pair event.",
-      "You could come with your friend or get a partner on the spot with the available contestants.",
-      "Each pair will be given books where one person will read the given text for 3 minutes and the other will type it as fast he/she can.",
-      "Then for the next 3 minutes they will switch sides and do the same.",
-      "Each team has to attempt to type down Maximum number of words in the given time with high accuracy.",
-      "EVALUATION CRITERIA:",
-      "   The text typed by both members will be evaluated using an AI tool.",
-      "   The team with the highest accuracy and number of words will win.",
-      "Total points awarded are 100",
-      "For number of words 50 points and for accuracy of words 50 points.",
-      "For typing of 200+ words you get 50 points and for every wrong spelling 2 points are deducted.",
-    ],
-    prizes: [
-      "The winners from Day 1 and Day 2 both will be evaluated and a Leaderboard will be made the Top 10 teams will be Winners and will win free Membership From Books and Beyond ",
-      "Top 3 winners will get any one course out of c++, JAVA, Python, etc. With 100% Scholorship",
-    ],
-    team: "Team of 2",
-    fees: "Free",
-    contactInfo: [
-      "Sayam Palrecha : 9370091963",
-      "Yash Gokakkar : 7499822665",
-      "Omkar Shedge : 8308882756",
-      "Rohita : 9945798364",
-    ],
-    location: "about to be fixed",
-    date: "20 AND 21 FEBRUARY (10:00 AM to 5:00 PM)",
-    note: [
-      "This fast-paced game is for those who want to put their teamwork and typing skills to the test.",
-    ],
-    //Register Link
-    link: "",
-  },
-  {
-    id: 22,
-    image: Hackathon,
-    name: "7BITS",
-    description: [
-      "The upcoming contest is a great opportunity for computer science enthusiasts to test their skills in Data Structure and Algorithm (DSA) problems. The contest will feature a total of 7 DSA problems, with 2 problems being easy, 4 medium-level problems, and 1 challenging problem. Participants will be able to solve the problems in a time frame of 2 hours and the team size should consist of a minimum of 2 students and a maximum of 4 students.",
-      "To ensure a smooth and seamless experience, each team will be provided with 2 PCs. Teams are also welcome to bring their own laptops if they prefer. The top 3 teams will be rewarded with a 3-month subscription to TLE ELIMINATORS, a valuable resource for anyone looking to enhance their DSA skills. In addition, the top 10 teams will receive stickers as a token of appreciation for their participation.",
-      "This contest is a fantastic opportunity for individuals or teams to showcase their DSA knowledge and skills. So gear up, bring your best problem-solving skills, and get ready to participate in this exciting contest!",
-    ],
-    rules: [
-      "Eligibility: The contest is open for every registered participant.",
-      "Contest Format: The contest will consist of a set of 7 DSA problems, with 2 problems being easy, 4 medium-level problems, and 1 challenging problem, all to be solved in the time frame of 2 hours.",
-      "Programming Languages: Participants may use any programming language that is supported by the Hackerrank.",
-      "Plagiarism: Any instance of plagiarism will result in immediate disqualification.",
-      "Code of Conduct: All participants are expected to follow a code of conduct that includes respecting fellow participants and avoiding any behavior that might be considered offensive or disrespectful.",
-      "Prohibited Materials: Participants are not allowed to bring any electronic devices, including mobile phones, into the contest area.",
-      "Tiebreakers: In the event of a tie, the tiebreaker will be based on the time of submission for the last correct answer.",
-      "Organizing Committee: The organizing committee reserves the right to disqualify any participant who violates the rules and regulations of the contest.",
-      "Rule Changes: The organizing committee reserves the right to make changes to the rules and regulations of the contest at any time, and participants will be notified of any changes in advance.",
-    ],
-    prizes: ["EXICITING PRIZES AND REWARDS"],
-    team: "2-4 Students in a team",
-    fees: " Free",
-    contactInfo: ["Aryan Jangid : 7665313444"],
-    location: "AI & DS lab",
-    date: "22th Feb 2022",
-    note: [""],
-    //Register Link
-    link: "",
-  },
-  {
-    id: 23,
-    image: GamingZone,
-    name: "GAMING ARENA",
-    description:
-      "An interactive gaming zone consisting of games like Valorant and Fall Guys. Valorant will be a time game, where in each team will consist 5 players; 2 teams competing against each other Whereas Fall Guys, it will be an individual game.",
-    rules: [
-      "Valorant: ",
-      "   Every team must contain 3-5 players.",
-      "   If teams want then they can play online but at least their 2 members must be present on the venue.",
-      "   Game will be executed in Swiftplay model",
-      "   Only pre registrations are allowed, no walk in registrations will be entertained.",
-      "   Every team will have to bring their own laptops",
-      "   If team's want, then they can bring their own headphones, no headphones will be provided by the management. ",
-      "   Teams will be divided into slots!",
-      "   Top Teams of each slots will get advanced to next levels, accordingly winners will be decided at the end of day.",
-      "   Team must be present 10 minutes before the slot time.",
-      "   Team which will be late will not be entertained further! (Will get disqualified)",
-      "Fall guys: ",
-      "   This will be a single player game.",
-      "   Every player must bring their own laptops",
-      "   At a time, a batch of 9-10 players will be playing in a private lobby consisting of various maps, wherein players will advance accordingly. ",
-      "   Hence every batch will have its winner.",
-      "   The winner will be getting some exciting rewards.",
-      "   On spot registrations are allowed but priority will be given to pre-registration players.",
-    ],
-    prizes: ["EXICITING PRIZES AND REWARDS"],
-    team: "valorant: 3-5 players , Fall guys: Individual players",
-    fees: "Valorant: ₹100/Team, Fall guys: ₹30/Team",
-    contactInfo: ["Nikhil : 91236 81089", "Abhishek : 96070 52928"],
-    location: "A wing (FPL lab)",
-    date: "21st Feb 2023 (11 onwards)",
-    note: [""],
-    //Register Link
-    link: "",
-  },
-  // {
-  //   id: 24,
-  //   image: KeynoteSession,
-  //   name: "KEYNOTE SESSION",
-  //   description: "",
-  //   rules: [""],
-  //   prizes: [""],
-  //   team: "",
-  //   fees: "",
-  //   contactInfo: [""],
-  //   location: "",
-  //   date: "",
-  //   note: [""],
-  //   link: "",
-  // },
-  {
-    id: 24,
-    image: SupercarShow,
-    name: "SUPERCAR SHOW",
-    description:
-      "A car show is where car enthusiasts gather to showcase and admire various cars, including vintage, classic, modern, JDM, and tuned models. JDM cars are Japanese domestic market vehicles that are highly sought after for their performance and style. Car shows offer a chance for owners to display their prized possessions and for the public to appreciate the beauty and innovation of automobiles.",
-    rules: ["NA"],
-    prizes: ["NA"],
-    team: "Individual",
-    fees: "Free",
-    contactInfo: [""],
-    location: "D. Y. Patil Education Complex, Akurdi",
-    date: "20th Feb",
-    note: [""],
-    link: "",
-  },
-  {
-    id: 25,
-    image: SpaceExpo,
-    name: "SPACE TECH",
-    description:
-      "Space expo will be a presentation of highly appreciated space models from all space Organizations. n this event we will showcase models of launch vehicles like GSLV,  PSLV from ISRO. Likewise the high end missions like Mars orbiter mission, Chandrayaan 2, ASTROSAT will be detailed and showcased by multiple models and informative banners. Major satellites like Parker Solar Probe, Hubble Telescope, Astrosat, Sputnik will be discussed and their models will be showcased.",
-    rules: ["NA"],
-    prizes: ["NA"],
-    team: "Individual",
-    fees: "Free",
-    contactInfo: [
-      "Paras Dhongade  : 7798647910",
-      "Shriraksha SN   : 8767997653",
-    ],
-    location: "Center Lawn",
-    date: "20th and 21st Feb (10:00am onwards)",
-    note: [
-      "Quiz will be conducted regarding space technology, few lucky winners will get exciting goodies and gifts",
-    ],
-    link: "",
-    onSpot: "true",
-  },
-  // {
-  //   id: 27,
-  //   image: web3,
-  //   name: "Introduction to Web3",
-  //   description: [
-  //     "We GDSC DYPCOE are going to conduct our first ever event in Web3 domain “Introduction to Web3” at our pristine institute DYPCOE. Web3 (also known as Web 3.0]) is an idea for a new iteration of the World Wide Web which incorporates concepts such as decentralization, blockchain technologies, and token-based economics. The most worth noting difference between web3 and web2 is decentralization and the way it has been achieved.",
-  //     "Key things that will be achieved in the event : ",
-  //     "Getting familiarized with Web3",
-  //     "Presentation and introduction of domain",
-  //     "Seminar,",
-  //     "Providing roadmaps for web3 technologies, ",
-  //     "along with PPT we will show some videos ",
-  //     "we will also have interaction with kids",
-  //     "Networking,",
-  //     "Quiz Competitions",
-  //     "Overall it will totally a fun and more specifically an informative event. Students will get a chance to resolve their doubts personally with the domain expert. ",
-  //   ],
-  //   rules: ["NA"],
-  //   prizes: ["NA"],
-  //   team: "Individual",
-  //   fees: "Free",
-  //   contactInfo: ["Ashutosh Shimpi : 8087572655", "Nikhil Shinde : 8007243335"],
-  //   location: "Dyanprasad Sabhagruha, DYP Campus",
-  //   date: "20th Feb, 2022",
-  //   note: [""],
-  //   link: "",
-  // },
+  
 ];

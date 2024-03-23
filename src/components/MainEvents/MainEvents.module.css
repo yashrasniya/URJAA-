@@ -10,7 +10,11 @@
   /* background-clip: text; */
   /* background-image: linear-gradient(to bottom right, #ff00ee, #ff0932); */
 }
-
+.sub_heading{
+  text-align: center;
+  font-size: 3vw;
+  color: #fff;
+}
 .events_container {
   margin-top: 50px;
   background: url(./backGround.svg);

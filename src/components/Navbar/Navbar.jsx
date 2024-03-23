@@ -11,11 +11,11 @@ import { HashLink as Link } from "react-router-hash-link";
 // import Dropdown from "./Dropdown";
 import { HashLink } from "react-router-hash-link";
 import Logo from "../../assets/Logo.png";
+import { Link as Drop} from "react-scroll";
 
-const Scroll = require("react-scroll");
 
 const Navbar = () => {
-  const Drop = Scroll.Link;
+  // const Drop = King;
   const [scrolled, isScrolled] = useState(false);
   const [mobile, setMobile] = useState(false);
   // const [drop, setDrop] = useState(false);
