@@ -2,6 +2,7 @@ import React from "react";
 import classes from "./Hero.module.css";
 import { Link } from "react-router-dom";
 import Button from "../common/Button/Button";
+import MainEvents from "../MainEvents/MainEvents";
 
 const Hero = () => {
   return (
@@ -21,10 +22,10 @@ const Hero = () => {
           <Link
             className={classes.anchorBtn}
             rel="noopener noreferrer"
-            to="https://forms.gle/So9RxUsNnL9RcnVPA"
+            to="https://forms.gle/So9RxUsNnL9RcnVPA"           
           >
             <Button
-              link="https://forms.gle/So9RxUsNnL9RcnVPA"
+              link="http://localhost:5173/events"
               label="Register Here"
               className={classes.btn}
             ></Button>

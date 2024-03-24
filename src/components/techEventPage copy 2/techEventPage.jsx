@@ -9,7 +9,7 @@ import { eventsData } from "../../assets/eventsData";
 import ReactGA from "react-ga";
 import EventCards from "../common/neweventcard/EventCard";
 
-const SportEventPageEventPage = ({data}) => {
+const SportEvent = ({data}) => {
   
 console.log(data)
   return (
@@ -33,4 +33,4 @@ console.log(data)
   );
 };
 
-export default SportEventPageEventPage;
+export default SportEvent;

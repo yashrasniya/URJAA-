@@ -16,7 +16,7 @@ import Loading from "./components/common/Loading/Loading";
 import Popup from "./components/common/Popup/Popup";
 import TechEventPage from "./components/techEventPage/techEventPage";
 import Clutureevent from "./components/techEventPage copy/techEventPage";
-import SportEventPageEventPage from "./components/techEventPage copy 2/techEventPage";
+import SportEvent from "./components/techEventPage copy 2/techEventPage";
 // import SwupOverlayTheme from "@swup/overlay-theme";
 // import Swup from "swup";
 /* Google Analytics */
@@ -68,7 +68,7 @@ const App = () => {
             <Route path="/events/:eventId" element={<SingleEventPage />} />
             <Route path="/tech" element={<TechEventPage data={{title:'tech Event',type:'Tech'}}/>} />
             <Route path="/culturel" element={<Clutureevent data={{title:'culture Event',type:'Culture'}}/>} />
-            <Route path="/sport" element={<Clutureevent data={{title:'culture Event',type:'Culture'}}/>} />
+            <Route path="/sport" element={<SportEvent data={{title:'Sport Event',type:'Sport'}}/>} />
             <Route path="/leaderboard" element={<Leaderboard />} />
             <Route path="/about" element={<AboutPage />} />
             <Route path="/register" element={<Register />} />

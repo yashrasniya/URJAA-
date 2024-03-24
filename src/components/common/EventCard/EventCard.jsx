@@ -6,14 +6,18 @@ import { NavLink } from "react-router-dom";
 const Event = ({ eventData }) => {
   const { id, image, name } = eventData;
   let link=`https://forms.gle/So9RxUsNnL9RcnVPA`
+  let ilink=`Cultural.png`
   if (id=='Technical'){
     link='https://forms.gle/pfvaTru1s6L9HrGW6';
+    ilink=`Technical.png`
   }
-  if (id=='Culture') {
+  if (id=='CultureEvent') {
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
+    ilink=`Cultural.png`;
   }
-  if(id=='Sport'){
+  if(id=='SportsEvent'){
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
+    ilink=`Sports.png`;
   }
   
   return (
@@ -25,7 +29,7 @@ const Event = ({ eventData }) => {
             <div className={classes.img_container}>
               <img
                 className={classes.event_image}
-                src={image}
+                src={ilink}
                 alt="eventImage"
               />
             </div>
