@@ -1,8 +1,8 @@
 import React from "react";
 import classes from "./EventCard.module.css";
-import Cultural from '../../../assets/Cultural.png'
-import Technical from '../../../assets/Technical.png'
-import Sports from '../../../assets/Sports.png'
+import Cultural from '../../../assets/2.png'
+import Technical from '../../../assets/1.png'
+import Sports from '../../../assets/3.png'
 import Button from "../Button/Button";
 import { NavLink } from "react-router-dom";
 
@@ -11,7 +11,7 @@ const Event = ({ eventData }) => {
   let link=`https://forms.gle/So9RxUsNnL9RcnVPA`
   let ilink=Cultural
   if (id=='Technical'){
-    link='https://forms.gle/pfvaTru1s6L9HrGW6';
+    link='https://forms.gle/MczVV5XmEY73XydU8';
     ilink=Technical
   }
   if (id=='Cultural') {

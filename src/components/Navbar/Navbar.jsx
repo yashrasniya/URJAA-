@@ -46,6 +46,7 @@ const Navbar = () => {
             </Link>
           </Drop>
         </div>
+      <div className={classes.cen}>UURJA 2K24</div>
 
         <div className={classes.navbox}>
           <ul className={classes.nav}>
