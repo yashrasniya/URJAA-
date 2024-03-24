@@ -1,23 +1,26 @@
 import React from "react";
 import classes from "./EventCard.module.css";
+import Cultural from '../../../assets/Cultural.png'
+import Technical from '../../../assets/Technical.png'
+import Sports from '../../../assets/Sports.png'
 import Button from "../Button/Button";
 import { NavLink } from "react-router-dom";
 
 const Event = ({ eventData }) => {
   const { id, image, name } = eventData;
   let link=`https://forms.gle/So9RxUsNnL9RcnVPA`
-  let ilink=`Cultural.png`
+  let ilink=Cultural
   if (id=='Technical'){
     link='https://forms.gle/pfvaTru1s6L9HrGW6';
-    ilink=`Technical.png`
+    ilink=Technical
   }
   if (id=='Cultural') {
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
-    ilink=`Cultural.png`;
+    ilink=Cultural;
   }
   if(id=='Sport'){
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
-    ilink=`Sports.png`;
+    ilink=Sports;
   }
   
   return (
