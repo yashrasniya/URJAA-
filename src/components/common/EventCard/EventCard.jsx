@@ -38,7 +38,7 @@ const Event = ({ eventData }) => {
             </div>
             {/* <p className={classes.event_desc}>{description}</p> */}
             <div className={classes.view_more_btn}>
-              <Button link={link} label="Registartion" />
+              <Button link={link} label="Registration" />
             </div>
           </div>
         </div>
