@@ -11,11 +11,11 @@ const Event = ({ eventData }) => {
     link='https://forms.gle/pfvaTru1s6L9HrGW6';
     ilink=`Technical.png`
   }
-  if (id=='CultureEvent') {
+  if (id=='Cultural') {
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
     ilink=`Cultural.png`;
   }
-  if(id=='SportsEvent'){
+  if(id=='Sport'){
     link='https://forms.gle/So9RxUsNnL9RcnVPA';
     ilink=`Sports.png`;
   }

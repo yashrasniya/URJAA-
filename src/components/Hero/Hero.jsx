@@ -25,7 +25,7 @@ const Hero = () => {
             to="https://forms.gle/So9RxUsNnL9RcnVPA"           
           >
             <Button
-              link="http://localhost:5173/events"
+              link="/events"
               label="Register Here"
               className={classes.btn}
             ></Button>

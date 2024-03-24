@@ -34,11 +34,11 @@ const MainEvents = () => {
           </div>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Cultural Events</h1>
-            <Event eventData={{ id:1, image:'image', name:'Technical Events' }}  />
+            <Event eventData={{ id:'Cultural', image:'image', name:'Technical Events' }}  />
           </div>
           <div className={classes.events_container}>
             <h1 className={classes.sub_heading}>Sports Events</h1>
-            <Event   eventData={{ id:1, image:'image', name:'Technical Events' }} />
+            <Event   eventData={{ id:'Sport', image:'image', name:'Technical Events' }} />
 
           </div>
         </div>
