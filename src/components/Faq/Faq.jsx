@@ -3,7 +3,7 @@ import classes from "./Faq.module.css";
 
 const questions = [
   {
-    question: "What is UURJA?",
+    question: "What is UURJA 2K24?",
     answer:
       "UURJA 2k24 is the one of biggest techno-cultural & sports event .",
   },
