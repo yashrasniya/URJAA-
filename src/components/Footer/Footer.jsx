@@ -32,8 +32,8 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description} style={{ textAlign: 'justify' }}>
-            UURJA'24 is One of the Largest Technical festival of Gopeshwar. Let&apos;s
-            make a Tech move.
+            UURJA'24 is One of the Largest techno-cultural & sports festival of Gopeshwar. Let&apos;s
+            make a fest move.
           </p>
           <div className={classes.footer_social_item}>
   
@@ -64,8 +64,7 @@ const Footer = () => {
             </div>
           </div>
           <p className={classes.footer_sambhav_description} style={{ textAlign: 'justify' }}>
-            Get the latest updates about internships, hackathons, job openings
-            and much more..
+            Get the latest updates about ITGopeshwar..
           </p>
           <div className={classes.footer_social_item}>
             <div>
@@ -132,7 +131,9 @@ const Footer = () => {
               />
             </div>
             <div>
-              <p>Institute of Technology Gopeshwar, Chamoli</p>
+              <p style={{ textAlign: 'justify' }}>Institute of Technology Gopeshwar
+(a campus Institute of Veer Madho Singh Bhandari Uttarakhand Technical University, Dehradun)
+Kothiyalsain, Chamoli, Uttarakhand</p>
             </div>
           </div>
           <div className={classes.footer_contact}>
