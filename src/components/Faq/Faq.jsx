@@ -10,7 +10,7 @@ const questions = [
   {
     question: "What are the Dates and Timings of event?",
     answer:
-      "The event will start at 9AM on 29 March and will be till 31st of March 6 PM",
+      "The event will commence at 9 AM on March 29th and will continue until 6 PM on March 31st.",
   },
   {
     question: "How can I participate in the event?",
