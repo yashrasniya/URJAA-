@@ -15,7 +15,7 @@ const questions = [
   {
     question: "How can I participate in the event?",
     answer:
-      "Explore various events on the UURJA's website and register for the same",
+      "Explore the various events on UURJA's website and register for those that interest you.",
   },
   {
     question: "Is there any entry fee for UURJA 2k24?",
