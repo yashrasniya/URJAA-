@@ -10,7 +10,7 @@ const questions = [
   {
     question: "What are the Dates and Timings of event?",
     answer:
-      "The event will start at 9AM on 29 March and will be till 31st of March 10 PM",
+      "The event will start at 9AM on 29 March and will be till 31st of March 6 PM",
   },
   {
     question: "How can I participate in the event?",
@@ -20,7 +20,7 @@ const questions = [
   {
     question: "Is there any entry fee for UURJA 2k24?",
     answer:
-      "No, there is not any entry fee to explore UURJA 2k24.",
+      "No, there is no entry fee to explore UURJA 2k24.",
   },
 ];
 
