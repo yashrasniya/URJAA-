@@ -11,15 +11,15 @@ const Event = ({ eventData }) => {
   let link=`https://forms.gle/So9RxUsNnL9RcnVPA`
   let ilink=Cultural
   if (id=='Technical'){
-    link='https://forms.gle/E1yjYN7uEUPSrqS27';
+    link='https://forms.gle/u9jWwaJmejPt6yFE7';
     ilink=Technical
   }
   if (id=='Cultural') {
-    link='https://forms.gle/So9RxUsNnL9RcnVPA';
+    link='https://forms.gle/2pKY8BUQnhdj9uru6';
     ilink=Cultural;
   }
   if(id=='Sport'){
-    link='https://forms.gle/So9RxUsNnL9RcnVPA';
+    link='https://forms.gle/7f2NMM5n1FAYmEAg9';
     ilink=Sports;
   }
   
