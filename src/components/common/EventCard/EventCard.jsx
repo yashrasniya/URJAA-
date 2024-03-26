@@ -11,7 +11,7 @@ const Event = ({ eventData }) => {
   let link=`https://forms.gle/So9RxUsNnL9RcnVPA`
   let ilink=Cultural
   if (id=='Technical'){
-    link='https://forms.gle/MczVV5XmEY73XydU8';
+    link='https://forms.gle/E1yjYN7uEUPSrqS27';
     ilink=Technical
   }
   if (id=='Cultural') {
