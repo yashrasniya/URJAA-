@@ -15,7 +15,7 @@ const Hero = () => {
           <br></br>
 
           <h4 className={classes.caption} style={{ fontWeight: "bold" }}>
-            Let's make a tech move!
+             Techno,Cultural & Sports Fest
           </h4>
 
           <p className={classes.date}>March 29-31, 2024</p>

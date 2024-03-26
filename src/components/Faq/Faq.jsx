@@ -3,24 +3,24 @@ import classes from "./Faq.module.css";
 
 const questions = [
   {
-    question: "What is UURJA?",
+    question: "What is UURJA 2K24?",
     answer:
-      "UURJA 2k24 is the one of biggest Technical event in the history of DYPCOE.",
+      "UURJA 2k24 is the one of biggest techno-cultural & sports event .",
   },
   {
     question: "What are the Dates and Timings of event?",
     answer:
-      "The event will start at 9AM on 29 March and will be till 31st of March 10 PM",
+      "The event will commence at 9 AM on March 29th and will continue until 6 PM on March 31st.",
   },
   {
     question: "How can I participate in the event?",
     answer:
-      "Explore various events on the UURJA's website and register for the same",
+      "Explore the various events on UURJA's website and register for those that interest you.",
   },
   {
     question: "Is there any entry fee for UURJA 2k24?",
     answer:
-      "No, there is not any entry fee to explore UURJA 2k24.",
+      "No, there is no entry fee to explore UURJA 2k24.",
   },
 ];
 
