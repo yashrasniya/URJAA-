@@ -46,7 +46,7 @@ const Navbar = () => {
             </Link>
           </Drop>
         </div>
-      <div className={classes.cen}>UURJA 2K24</div>
+      
 
         <div className={classes.navbox}>
           <ul className={classes.nav}>
@@ -139,7 +139,9 @@ const Navbar = () => {
                 size="3x"
               />
             ) : (
+              <>
               <FiMenu size={20} />
+              </>
             )}
           </div>
         </div>
@@ -148,7 +150,7 @@ const Navbar = () => {
           
 
           {/* Mobile Page */}
-
+          
           <ul className={classes.mobileNav}>
             <li>
               <Drop
