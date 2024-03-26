@@ -11,7 +11,7 @@ import { HashLink as Link } from "react-router-hash-link";
 // import Dropdown from "./Dropdown";
 import { HashLink } from "react-router-hash-link";
 // import Logo from "../../assets/Logo.png";
-import Logo from "../../assets/Logo-removebg-preview.png";
+import Logo from "../../assets/Logo.png";
 import { Link as Drop} from "react-scroll";
 
 
@@ -46,7 +46,7 @@ const Navbar = () => {
             </Link>
           </Drop>
         </div>
-      {/* <div className={classes.cen}>UURJA - 2K24</div> */}
+      <div className={classes.cen}>UURJA - 2K24</div>
 
         <div className={classes.navbox}>
           <ul className={classes.nav}>

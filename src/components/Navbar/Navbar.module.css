@@ -37,14 +37,18 @@
   gap: 1rem;
   /* margin-right: auto; */
 }
+.logo{
+  border-radius: 100px;
+}
 .cen{
-  background-color: #fff;
-  font-size: 2vw;
-  color: black;
-  padding-left: 20px;
-  padding-right: 20px;
-  border-radius: 10px;
-  font-style: italic;
+  font-family: myFirstFont;
+  font-size: 4rem;
+  font-weight: bolder;
+  display: inline-block;
+  background-image: linear-gradient(to bottom, #0263ad, #fd4f8b);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .logo {
   width: 25%;
